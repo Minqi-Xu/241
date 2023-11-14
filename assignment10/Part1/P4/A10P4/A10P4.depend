@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1639752348 source:e:\uofw\3a\cs241\assignment10\part1\p4\a10p4\malloc.cc
+	<cstdint>
+	<iostream>
+	"a10p1.h"
+
+1639657038 e:\uofw\3a\cs241\assignment10\part1\p4\a10p4\a10p1.h
+	<cstdint>
+

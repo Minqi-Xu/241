@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1639668835 source:e:\uofw\3a\cs241\assignment10\part1\p3\a10p3\cons.cc
+	<cstdint>
+	"a10p1.h"
+	"a10p2.h"
+
+1639657038 e:\uofw\3a\cs241\assignment10\part1\p3\a10p3\a10p1.h
+	<cstdint>
+
+1639657087 e:\uofw\3a\cs241\assignment10\part1\p3\a10p3\a10p2.h
+	<cstdint>
+

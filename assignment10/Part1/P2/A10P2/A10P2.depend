@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1639659545 source:e:\uofw\3a\cs241\assignment10\part1\p2\a10p2\wrapper-p2.cc
+	<iostream>
+	<cstdint>
+	"a10p2.h"
+
+1639657087 e:\uofw\3a\cs241\assignment10\part1\p2\a10p2\a10p2.h
+	<cstdint>
+
